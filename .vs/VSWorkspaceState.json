@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\front-to-back",
+    "\\front-to-back\\Controllers",
+    "\\front-to-back\\Models",
+    "\\front-to-back\\ViewModels",
+    "\\front-to-back\\ViewModels\\About",
+    "\\front-to-back\\ViewModels\\Home",
+    "\\front-to-back\\Views",
+    "\\front-to-back\\Views\\About",
+    "\\front-to-back\\Views\\Home"
+  ],
+  "SelectedNode": "\\front-to-back.sln",
+  "PreviewInSolutionExplorer": false
+}
